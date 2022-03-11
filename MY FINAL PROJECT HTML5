@@ -7,9 +7,10 @@
 
 <body>
     <h1>My Final Project</h1>
-<figure>
-    <img src = "https://logosmarcas.net/wp-content/uploads/2022/02/University-Of-Michigan-Logo.png" alt = "logotip of Michigan" width="20%">
-      </figure>
+    
+    <figure>
+        <img src = "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2491/files/2022/01/u-m-logo-hex.png" alt = "logotip of Michigan" heigth="200" width="200">
+    </figure>
 
  <header>
     <h1>Denner Costa</h1>
@@ -49,6 +50,7 @@
  <footer>
         <p>
         <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+        <br>
         This page was created by Troy &amp; Colleen van Lent. To learn more about web design, visit
         <a href="http://www.intro-webdesign.com">Intro to Web Design</a>
          </p>
